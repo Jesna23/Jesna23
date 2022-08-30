@@ -6,14 +6,14 @@
   <a href="https://www.linkedin.com/in/jesna-kg-391a24244/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I'm a third - year Ph.D. scholar in chemistry. working on emerging material for nanotechnology-based perovskite sensors.  [HPFFP](https://haskellbook.com/)
+I'm a third - year Ph.D. scholar in chemistry, working on emerging material for nanotechnology-based perovskite sensors.  [Center for Nano and Material Sciences, Jain Deemed-to-be University](https://cnms.jainuniversity.ac.in/)
 
 ### My work
 
-I contribute to FP projects and build some myself:
+I detect heavy metal ions using the perovskite as probe :
 
 * [📚 Blog](https://kodimensional.dev/#blog) — articles on learning Functional programming.
-* [:octocat: OSS](https://github.com/udaycruise2903) — my projects
+* [:octocat: OSS](https://github.com/Jesna23) — my projects
 
 I'd like to highlight a few notable contributions and projects:
 
